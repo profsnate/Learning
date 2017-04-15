@@ -183,3 +183,5 @@ myArray.insert(7, at: 6)
 myArray [9] = 10
 print (myArray)
 
+var yourName = "Pauly"
+print (yourName)
